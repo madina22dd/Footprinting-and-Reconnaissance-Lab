@@ -1,7 +1,7 @@
 # Footprinting-and-Reconnaissance-Lab
 Week 2 Cybersecurity Project – Footprinting and Reconnaissance using Kali Linux tools.
 
-# PENETRATION TESTING REPORT (SAMPLE)
+# PENETRATION TESTING REPORT 
 **Footprinting & Network Scanning Phases**  
 **W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS**
 
